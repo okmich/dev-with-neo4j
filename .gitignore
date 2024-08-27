@@ -1,8 +1,8 @@
-main
-src/main/resources/application.properties
-node_modules
+# main
+# src/main/resources/application.properties
+# node_modules
 .DS_Store
-.env
+# .env
 target
 .idea
 
@@ -21,6 +21,6 @@ htmlcov/
 dist/
 build/
 *.egg-info/
-neoflix/
+# neoflix/
 .DS_Store
 .env
